@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="300" src=https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif>
+<img align="right" alt="Coding" width="350" src=https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susovan-2005&label=Profile%20views&color=0e75b6&style=flat" alt="susovan-2005" /> </p>
