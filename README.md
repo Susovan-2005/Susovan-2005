@@ -1,5 +1,8 @@
 # Susovan-2005
-<h1 align="center">Hi 👋, I'm Susovan Pal</h1>
+<!-- Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+Susovan+Pal+Profile)](https://git.io/typing-svg)
+
+
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/73675038-ece4-4705-9dce-71c805aad912" />
