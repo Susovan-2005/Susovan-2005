@@ -1,6 +1,5 @@
-
 <!-- Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+Susovan+Pal+Profile!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+Susovan+Pal+Profile!+👋)](https://git.io/typing-svg)
 
 
 <h3 align="center">A passionate Software Engineer from India</h3>
