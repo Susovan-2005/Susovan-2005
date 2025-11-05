@@ -1,3 +1,5 @@
+![logo](https://github.com/Susovan-2005/Susovan-2005/blob/main/White%20and%20Black%20Minimalist%20Virtual%20Assistant%20LinkedIn%20Article%20Cover%20Image.png)
+
 <!-- Typing Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+Susovan+Pal+Profile!+👋)](https://git.io/typing-svg)
 
