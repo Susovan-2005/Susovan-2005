@@ -1,10 +1,13 @@
 ![logo](https://github.com/Susovan-2005/Susovan-2005/blob/main/White%20and%20Black%20Minimalist%20Virtual%20Assistant%20LinkedIn%20Article%20Cover%20Image.png)
 
 <!-- Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+Susovan+Pal+Profile!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=750&size=36&pause=1000&center=true&vCenter=true&width=1000&lines=Welcome+to+Susovan+Pal+Profile!+👋)](https://git.io/typing-svg)
+
 
 
 <h3 align="center">A passionate Software Engineer from India</h3>
+<hr style="border: 0.5px solid black; width: 80%;">
+
 
 <img align="right" alt="Coding" width="350" src=https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif>
 
